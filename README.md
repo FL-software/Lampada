@@ -1,4 +1,4 @@
-# lampada
+# Lâmpada
 
 Projeto Lâmpada botões como interruptores para ligar e desligar
 
